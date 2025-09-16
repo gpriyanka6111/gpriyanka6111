@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Priyanka
 
-Software Developer with strong expertise in **Java, Python, and backend systems**, experienced in building **high-performance, large-scale applications**. Skilled in creating scalable APIs, optimizing system performance, and working with cross-functional teams in Agile environments.  
-Background in **cloud deployment** (AWS, Docker, Kubernetes) and **production support**.  
+Software Developer with strong expertise in Java, Python, and backend systems, experienced in building high performance, large scale applications. Skilled in creating scalable APIs, optimizing system performance, and working with cross functional teams in Agile environments.  
+Background in cloud deployment(AWS, Docker, Kubernetes) and production support.  
 
 ---
 
