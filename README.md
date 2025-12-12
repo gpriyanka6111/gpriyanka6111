@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Priyanka
 
-Software Developer with strong expertise in Java, Python, and backend systems, experienced in building high performance, large scale applications. Skilled in creating scalable APIs, optimizing system performance, and working with cross functional teams in Agile environments.  
-Background in cloud deployment(AWS, Docker, Kubernetes) and production support.  
+Business Analyst experienced in pricing, margin, and product-level performance analysis across retail environments. Skilled in SQL, Python, Power BI, and Excel for cleaning ERP data, building automated dashboards, and delivering clear insights for sales, product management, and operations teams. Known for improving reporting accuracy, identifying revenue opportunities, and turning complex datasets into actionable business recommendations
 
 ---
 
 ## 🛠 Skills
-**Frontend:** React, TypeScript, JavaScript, Next.js, HTML5, CSS3  
-**Backend:** Python, Java, SQL, Flask, Spring Boot  
+**Technologies:** SQL, Python, Power BI, Tableau, Flask, OpenPyXL Automation, Advanced Excel
+**Analytics:** Pricing Analysis, Margin Analysis, Data Cleaning, Trend Analysis
+**Reporting:** Power BI, Tableau, KPI Reporting, Data Visualization, Dashboarding
+**Documentation:** Requirements Gathering, BRDs, Process Mapping
 **Frameworks & Tools:** Pandas, OpenPyXL, Hibernate  
 **Cloud & DevOps:** AWS (Lambda, Step Functions, API Gateway, S3), Docker, Kubernetes, Jenkins, Git, GitHub  
 
