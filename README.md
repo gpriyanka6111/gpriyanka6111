@@ -5,12 +5,12 @@ Business Analyst experienced in pricing, margin, and product-level performance a
 ---
 
 ## 🛠 Skills
-**Technologies:** SQL, Python, Power BI, Tableau, Flask, OpenPyXL Automation, Advanced Excel
-**Analytics:** Pricing Analysis, Margin Analysis, Data Cleaning, Trend Analysis
-**Reporting:** Power BI, Tableau, KPI Reporting, Data Visualization, Dashboarding
-**Documentation:** Requirements Gathering, BRDs, Process Mapping
-**Frameworks & Tools:** Pandas, OpenPyXL, Hibernate  
-**Cloud & DevOps:** AWS (Lambda, Step Functions, API Gateway, S3), Docker, Kubernetes, Jenkins, Git, GitHub  
+- **Technologies:** SQL, Python, Power BI, Tableau, Flask, OpenPyXL Automation, Advanced Excel
+- **Analytics:** Pricing Analysis, Margin Analysis, Data Cleaning, Trend Analysis
+- **Reporting:** Power BI, Tableau, KPI Reporting, Data Visualization, Dashboarding
+- **Documentation:** Requirements Gathering, BRDs, Process Mapping
+- **Frameworks & Tools:** Pandas, OpenPyXL, Hibernate  
+- **Cloud & DevOps:** AWS (Lambda, Step Functions, API Gateway, S3), Docker, Kubernetes, Jenkins, Git, GitHub  
 
 ---
 
