@@ -62,3 +62,14 @@ Business Analyst experienced in pricing, margin, and product-level performance a
 **Bachelor’s in Computer Science** — *Gandhi Institute of Technology, India* (May 2017 – May 2021)  
 
 --- 
+
+## 📫 Connect with Me
+Feel free to reach out! I'm always open to discussing data analytics, business intelligence, or potential collaborations.
+
+- 📧 **Email:** [gpriyanka6111@gmail.com](mailto:gpriyanka6111@gmail.com)
+- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/gpriyanka6111)
+- 🐙 **GitHub:** You're already here! Check out my repositories below
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my projects and connect!*
