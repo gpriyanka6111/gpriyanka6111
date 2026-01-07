@@ -65,7 +65,3 @@ ML classification project predicting customer churn with model performance compa
 
 ## 📫 Let's Connect!
 Feel free to explore my repositories and reach out for collaboration opportunities!
-
----
-Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2026-01-07 22:35:07
-Current User's Login: gpriyanka6111
