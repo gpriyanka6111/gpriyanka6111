@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Priyanka
 
-Software Engineer with a Master's in Computer Science from Stevens Institute of Technology. Passionate about building scalable full-stack applications, machine learning models, and cloud-native solutions. Experienced in developing end-to-end applications using modern frameworks, implementing ML pipelines, and deploying production-ready systems.
+Passionate about building scalable full-stack applications, machine learning models, and cloud-native solutions. Experienced in developing end-to-end applications using modern frameworks, implementing ML pipelines, and deploying production-ready systems.
 
 ---
 
