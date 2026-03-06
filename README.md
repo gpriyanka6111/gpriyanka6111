@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Priyanka
 
-Passionate about building scalable full-stack applications, machine learning models, and cloud-native solutions. Experienced in developing end-to-end applications using modern frameworks, implementing ML pipelines, and deploying production-ready systems.
+I'm a Software Engineer with a strong focus on backend development and scalable systems. I enjoy building reliable APIs, data-driven applications, and automation tools that solve real-world problems.
+
+I have experience developing backend services using **Java, Spring Boot, and microservices architecture**, along with cloud-native technologies such as **AWS, Docker, and Kubernetes**. My work includes designing RESTful APIs, optimizing database performance, and building event-driven systems.
+
+I also enjoy building independent projects end-to-end — from backend architecture to deployment — including a **pharmacy data processing platform** that automates vendor reconciliation and insurance-based billing analysis for retail pharmacies.
 
 ---
 
@@ -8,9 +12,10 @@ Passionate about building scalable full-stack applications, machine learning mod
 
 ### **Languages & Frameworks**
 - **Frontend:** React, Next.js, TypeScript, JavaScript, HTML/CSS, Tailwind CSS
-- **Backend:** Node.js, TypeScript, Flask, Python, REST APIs
+- **Backend:** Java, TypeScript, Flask, Python, REST APIs
+- **Frameworks:** Spring Boot, Flask, React, Next.js, TypeScript, Hibernate, Pandas, Scikit-Learn, Node.js
 - **Database:** MySQL, Firebase Firestore, SQL
-- **Machine Learning:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- 
 
 ### **Cloud & DevOps**
 - **Cloud Platforms:** AWS (Lambda, Step Functions, API Gateway, S3), Firebase
