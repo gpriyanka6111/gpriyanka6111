@@ -15,16 +15,10 @@ I also enjoy building independent projects end-to-end — from backend architect
 - **Backend:** Java, TypeScript, Flask, Python, REST APIs
 - **Frameworks:** Spring Boot, Flask, React, Next.js, TypeScript, Hibernate, Pandas, Scikit-Learn, Node.js
 - **Database:** MySQL, Firebase Firestore, SQL
-- 
 
 ### **Cloud & DevOps**
 - **Cloud Platforms:** AWS (Lambda, Step Functions, API Gateway, S3), Firebase
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, GitHub Actions, Git/GitHub
-
-### **Tools & Technologies**
-- Excel Automation (OpenPyXL), PyWebview, Pickle (Model Serialization)
-- Authentication: Firebase Auth, JWT
-- Data Visualization: Power BI, Tableau
 
 ---
 
